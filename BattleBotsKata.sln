@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleBotsKata", "BattleBotsKata\BattleBotsKata.csproj", "{AD765555-8839-4425-AA51-3768FD7B60EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleBotsTests", "BattleBotsTests\BattleBotsTests.csproj", "{AFF88BD4-93B2-40B1-BA25-0555A187BAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD765555-8839-4425-AA51-3768FD7B60EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD765555-8839-4425-AA51-3768FD7B60EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD765555-8839-4425-AA51-3768FD7B60EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD765555-8839-4425-AA51-3768FD7B60EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF88BD4-93B2-40B1-BA25-0555A187BAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF88BD4-93B2-40B1-BA25-0555A187BAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF88BD4-93B2-40B1-BA25-0555A187BAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF88BD4-93B2-40B1-BA25-0555A187BAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1E548D-FF95-4C07-9EF2-2E8784B4CF6A}
+	EndGlobalSection
+EndGlobal
