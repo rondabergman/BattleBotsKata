@@ -29,8 +29,8 @@ You're building a battle simulator where bots fight using different attack strat
 ## 🧱 Suggested Extensions
 
 - Add combo decorators (e.g., Shield + Poison)
-- Implement logging decorators
 - Add unit tests for edge cases
+- Implement logging decorators
 
 ## 🤝 Pairing Tips
 
